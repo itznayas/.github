@@ -1,9 +1,9 @@
 # Default owner for all files
-* @YOUR-USERNAME
+* @itznayas
 
 # Optional organization teams
 /src/ @YOUR-ORG/developers
 /database/ @YOUR-ORG/database-team
 
 # Owner for repository configuration
-/.github/ @YOUR-USERNAME
+/.github/ @itznayas
